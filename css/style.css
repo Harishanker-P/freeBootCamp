@@ -1,0 +1,19 @@
+.footer-links li {
+    list-style: none;
+
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: rgb(0, 115, 255);
+}
+
+.landing .container:hover .rotate {
+    /* visibility: hidden; */
+
+
+}
